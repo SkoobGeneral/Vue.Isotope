@@ -20,7 +20,7 @@
     "test": "test"
   },
   "dependencies": {
-    "isotope-layout": "git+https://github.com/SkoobGeneral/isotope#3.0.7425",
+    "isotope-layout": "git+https://github.com/SkoobGeneral/isotope-layout#3.0.7425",
     "lodash": "^4.13.1"
   },
   "devDependencies": {
