@@ -1,6 +1,6 @@
 {
   "name": "vueisotope",
-  "version": "3.1.3",
+  "version": "3.1.7425",
   "description": "vue isotope for directive",
   "main": "dist/vue_isotope.min.js",
   "files": [
@@ -20,7 +20,7 @@
     "test": "test"
   },
   "dependencies": {
-    "isotope-layout": "git+https://github.com/SkoobGeneral/isotope",
+    "isotope-layout": "git+https://github.com/SkoobGeneral/isotope#3.0.7425",
     "lodash": "^4.13.1"
   },
   "devDependencies": {
